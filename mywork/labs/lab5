@@ -1,0 +1,6 @@
+#!/bin/bash
+
+/usr/bin/apt update -y
+/user/bin/apt upgrade -y
+
+/usr/bin/apt install -y git python3 boto3
